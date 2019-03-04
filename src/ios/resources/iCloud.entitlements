@@ -6,6 +6,10 @@
 	<array>
 		<string>iCloud.$(CFBundleIdentifier)</string>
 	</array>
+	<key>com.apple.developer.icloud-container-environment</key>
+	<array>
+		<string>Development</string>
+	</array>
 	<key>com.apple.developer.icloud-services</key>
 	<array>
 		<string>CloudDocuments</string>
